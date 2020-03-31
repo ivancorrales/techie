@@ -2,11 +2,5 @@ kind: post
 title: This is me.
 description: An introduction about me.
 tags:
-   - devops
-   - software
-   - jenkins-ci
-opts:
-  comments: true
-  sharing: true
-  voting: true
-  printable: true
+   - me
+   - techie
