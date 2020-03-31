@@ -2,4 +2,8 @@
 
 ## About
 
-This is my first post.
+This is my **first post**.
+
+
+# Thanks
+Thanks to the @techiestone team.
