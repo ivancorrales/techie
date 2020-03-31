@@ -8,4 +8,4 @@ me:
     linkedin: ivan-corrales-solera
 ignore:
   - backups/**
-  - olds
+  - old
