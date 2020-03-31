@@ -1,1 +1,0 @@
-Checki ot
