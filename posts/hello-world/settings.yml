@@ -1,6 +1,11 @@
-kind: post
+kind: serie
 title: This is me.
 description: An introduction about me.
 tags:
    - me
    - techie
+posts:
+  - index.md
+  - introduction.md
+  - proposal.md
+  - contact.md
