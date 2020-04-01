@@ -5,7 +5,6 @@
   draft: false
 )
 
-
 # Advice
 
 The piece that you were missing...
