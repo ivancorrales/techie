@@ -1,27 +1,24 @@
-{: .text-green-300}
+[techiestone]: <> (
+  kind: article
+  title: My first blog
+  tags: hello, me,
+  draft: false
+)
+
 # Advice
-{: .fs-9 }
 
-{: .text-green-200}
 The piece that you were missing...
-
-{: .fs-6 .fw-300 }
 
 ---
 
-{: .text-green-300}
 ## Types of advices
 
-
-{: .text-yellow-300}
 ### Before
 
-{: .text-green-200}
 #### Description
 
 Advice that must be executed before a function/method invocation.
 
-{: .text-green-200}
 #### Use cases
 
 - Trace functions and methods calls.
@@ -32,18 +29,14 @@ Advice that must be executed before a function/method invocation.
 - ...
 
 [Go to section "Before advices"](/advices/before/)
-{: .fs-4 }
 
 ---
 
-{: .text-yellow-300}
 ### Returning
 
-{: .text-green-200}
 #### Description
 Advice that must be executed after a function/method invocation.
 
-{: .text-green-200}
 #### Use cases
 
 - Update fields depending on output response.
@@ -53,18 +46,14 @@ Advice that must be executed after a function/method invocation.
 - ...
 
 [Go to section "Returning advices"](/advices/returning/)
-{: .fs-4 }
 ---
 
-{: .text-yellow-300}
 ### Around
 
-{: .text-green-200}
 #### Description
 Advice that surrounds a function/method invocation.
 
 
-{: .text-green-200}
 #### Use cases
 
 - Implement custom and smart memorize advices.
@@ -73,4 +62,3 @@ Advice that surrounds a function/method invocation.
 - ...
 
 [Go to section "Around advices"](/advices/around)
-{: .fs-4 }
