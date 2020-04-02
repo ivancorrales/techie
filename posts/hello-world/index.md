@@ -1,21 +1,10 @@
 [kind]: # (blog)
-[title2]: # (blog)
-[title3]: (blog)
-[a]: # (
-{
-  kind->{
-    ss
-  }
-}
-)
+[title2]: # (blog2)
+[title3]: (blog3)
+
 
 [.techistone]: # (Hello my friend)
-[//]: # (Hello my friend)
-[//]: # (
-  kind: blog
-  title:
-    description: "my desc"
-)
+
 
 
 
