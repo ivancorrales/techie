@@ -1,13 +1,22 @@
-[techiestone]: <> # (
-  kind: article
-  title: My first blog
-  tags: hello, me,
-  draft: false
+[kind]: # (blog)
+[title2]: # (blog)
+[title3]: (blog)
+[a]: # (
+{
+  kind->{
+    ss
+  }
+}
 )
 
+[.techistone]: # (Hello my friend)
 [//]: # (Hello my friend)
+[//]: # (
+  kind: blog
+  title:
+    description: "my desc"
+)
 
-[//]: <> # (Hello my friend2)
 
 
 # Advice
