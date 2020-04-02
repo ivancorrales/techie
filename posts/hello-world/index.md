@@ -1,24 +1,14 @@
-[ts.kind]: # (blog a)
+[ts.kind]: # (blog)
 
-[kind1]: # eoeoeoe or
+[ts.kind]: # ("blog")
 
-[kind2]: # (1, 2,"3" )
+[ts.description]: # (Hello my friend
+  how're you doin?)
 
 [ts.description]:(http d)
 
-[techiestone2]: # (
-kind: blog
-description: |
-  Hello my friend
-)
-
-[link]: # ({
-  "a": "b"
-})
-
 [ts.kind]: # (blog s )
 
-[ts.description]:(http a)
 
 # Advice
 
