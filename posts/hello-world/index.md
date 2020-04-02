@@ -2,8 +2,6 @@
 
 [ts.kind]: # ("blog")
 
-[ts.description]: # (Hello my friend
-  how're you doin?)
 
 [ts.kind]: # (blog s )
 
@@ -14,6 +12,8 @@ The piece that you were missing...
 
 ---
 ## Types of advices
+
+[ts.kind]: # (blog s )
 
 ### Before
 
