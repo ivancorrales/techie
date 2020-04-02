@@ -12,6 +12,7 @@ The piece that you were missing...
 ---
 
 ## Types of advices
+
 ### Before
 
 #### Description
