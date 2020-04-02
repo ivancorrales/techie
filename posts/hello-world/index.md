@@ -5,7 +5,6 @@
 
 [ts.kind]: # (blog s )
 
-
 # Advice
 
 The piece that you were missing...
