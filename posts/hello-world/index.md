@@ -1,4 +1,4 @@
-[ts.kind]: # (blog)
+[ts.kind]: # (post)
 
 [ts.kind2]: # ("blog")
 
@@ -15,7 +15,7 @@ The piece that you were missing...
 ---
 ## Types of advices
 
-  [ts.kind]: # (blog s )
+  [ts.tags]: # (software, clean code )
 
 
 ### Before
