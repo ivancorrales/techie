@@ -2,10 +2,8 @@
 
 [ts.kind]: # ("blog")
 
-[ts.description]: <> # (Hello my friend
+[ts.description]: # (Hello my friend
   how're you doin?)
-
-[ts.description]:(http d)
 
 [ts.kind]: # (blog s )
 
