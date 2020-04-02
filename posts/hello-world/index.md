@@ -1,6 +1,6 @@
-[ts.kind]: # (blog)
+[ts.kind]: # (blog a)
 
-[ts.description]:(http)
+[ts.description]:(http d)
 
 [techiestone2]: # (
 kind: blog
@@ -12,7 +12,7 @@ description: |
   "a": "b"
 })
 
-[ts.kind]: # (blog)
+[ts.kind]: # (blog s )
 
 [ts.description]:(http a)
 
