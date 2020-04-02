@@ -12,6 +12,10 @@ description: |
   "a": "b"
 })
 
+[ts.kind]: # (blog)
+
+[ts.description]:(http)
+
 # Advice
 
 The piece that you were missing...
