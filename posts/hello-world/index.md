@@ -5,6 +5,11 @@
   draft: false
 )
 
+[//]: # (Hello my friend)
+
+[//]: <> # (Hello my friend2)
+
+
 # Advice
 
 The piece that you were missing...
