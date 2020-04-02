@@ -1,4 +1,6 @@
-[techiestone]: # (a)
+[ts.kind]: # (blog)
+
+[ts.description]: # (Mi first blog)
 
 [techiestone2]: # (
 kind: blog
