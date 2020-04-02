@@ -1,6 +1,6 @@
 [ts.kind]: # (blog)
 
-[ts.description]: # (Mi first blog)
+[ts.description]:(http)
 
 [techiestone2]: # (
 kind: blog
@@ -8,7 +8,9 @@ description: |
   Hello my friend
 )
 
-
+[link]: # ({
+  "a": "b"
+})
 
 # Advice
 
