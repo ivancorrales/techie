@@ -1,9 +1,9 @@
 [ts.kind]: # (blog)
 
-[ts.kind]: # ("blog")
+[ts.kind2]: # ("blog")
 
 
-[ts.kind]: # (blog s )
+[ts.kind3]: # (blog s )
 
 
 
@@ -15,7 +15,7 @@ The piece that you were missing...
 ---
 ## Types of advices
 
-[ts.kind]: # (blog s )
+  [ts.kind]: # (blog s )
 
 ### Before
 
