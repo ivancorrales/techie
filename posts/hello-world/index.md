@@ -1,11 +1,8 @@
-[kind]: # (blog)
-[title2]: # (blog2)
-[title3]: (blog3)
-
-
-[.techistone]: # (Hello my friend)
-
-
+[techiestone]: # (
+kind: blog
+description: |
+  Hello my friend
+)
 
 
 # Advice
