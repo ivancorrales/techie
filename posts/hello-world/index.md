@@ -17,6 +17,7 @@ The piece that you were missing...
 
   [ts.kind]: # (blog s )
 
+
 ### Before
 
 #### Description
