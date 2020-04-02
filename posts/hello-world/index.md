@@ -1,5 +1,9 @@
 [ts.kind]: # (blog a)
 
+[kind1]: # eoeoeoe or
+
+[kind2]: # (1, 2,"3" )
+
 [ts.description]:(http d)
 
 [techiestone2]: # (
