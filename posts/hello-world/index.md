@@ -5,6 +5,7 @@
 
 # Koazee
 
+
 > Lazy like a koala, smart like a chimpanzee
 
 ## What is Koazee?
@@ -191,6 +192,14 @@ func main() {
 	fmt.Printf("stream.LastIndexOf(2): %d\n", index)
 	contains, _ := stream.Contains(7)
 	fmt.Printf("stream.Contains(7): %v\n", contains)
+}
+
+
+/api/users/lookup?loginOrEmail=user@mygraf.com
+curl -XPOST 'https://grafana.central.ether.igrupobbva/api/teams/1/members'
+eyJrIjoia1ZlWEhuR1FPMjRycFgySUlqNFJrNXFzZGxIWVpHcW0iLCJuIjoiYWRtaW5pc3RyYXRvciIsImlkIjoxfQ==
+--data '{"userId":"E052861"
+
 }
 
 
