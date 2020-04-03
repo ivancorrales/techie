@@ -7,7 +7,6 @@
 
 > Lazy like a koala, smart like a chimpanzee
 
-
 ## What is Koazee?
 
 Koazee is a StreamLike, Immutable, Lazy Loading and smart Golang Library to deal with slices.
